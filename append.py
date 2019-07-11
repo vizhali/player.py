@@ -1,0 +1,2 @@
+vizh=input()
+print(vizh+".")
